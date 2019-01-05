@@ -1,4 +1,4 @@
-# PSU\_my\_sokoban\_2016
+# PSU\_2016\_my\_sokoban
 
 
 ## Project
